@@ -15,7 +15,7 @@ Sys:
 - Opencode
 - node
 - git
-- nvm
+- volta (/nvm)
 - yazi (https://youtu.be/6vuEzC3FfdY?si=u-6Qmwl_EGaiFktY)
 
 Backup file & folder from prob:
