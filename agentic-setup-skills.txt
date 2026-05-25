@@ -14,5 +14,6 @@ npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill u
 
 Backend:
 1. Golang:
+npx skills add https://github.com/samber/cc-skills-golang --all
 npx skills add https://github.com/jeffallan/claude-skills --skill golang-pro
 npx skills add https://github.com/affaan-m/everything-claude-code --skill golang-patterns
