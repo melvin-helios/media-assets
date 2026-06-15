@@ -5,8 +5,9 @@ Apps:
 - Discord
 - Docker
 - Postman
-- Notepad++
+- Notepad++ (/Notepads from store)
 - Microsoft Team
+- Terminal / WezTerm
 
 Req. Work:
 - Sangford + Intune
