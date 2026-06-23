@@ -4,7 +4,7 @@ Apps:
 - Fantech X9 Macro Gaming Mouse
 - Discord
 - Docker
-- Postman
+- Postman (+ Insomnia API)
 - Notepad++ (/Notepads from store)
 - Microsoft Team
 - Terminal / WezTerm
