@@ -8,6 +8,7 @@ Apps:
 - Notepad++ (/Notepads from store)
 - Microsoft Team
 - Terminal / WezTerm
+- Dbeaver (PostgreSQL)
 
 Req. Work:
 - Sangford + Intune
