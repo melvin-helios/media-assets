@@ -9,6 +9,7 @@ Apps:
 - Microsoft Team
 - Terminal / WezTerm
 - Dbeaver (PostgreSQL)
+- 7Zip & RAR
 
 Req. Work:
 - Sangford + Intune
